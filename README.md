@@ -1,4 +1,2 @@
-# Persona-Legacy
-
-The legacy code of Persona Discord bot. 
-Created as a high school project by Aakash Alloria, Armaan Saini and Chaitanya Sharma
+# Persona-Legacy-
+The legacy code of persona discord bot's version 1 which was submitted as a CBSE High School Project.
